@@ -1,0 +1,91 @@
+name: free_swingers
+description: A new Flutter project.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.1.4
+  http: ^0.13.3
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/logout.png
+    - assets/images/search.png
+    - assets/images/menu.png
+    - assets/images/girl_bg.png
+    - assets/images/signup.png
+    - assets/images/signup2.png
+    - assets/images/next.png
+    - assets/images/luxury.png
+    - assets/images/intense.png
+    - assets/images/plum_toys.png
+    - assets/images/gay.png
+    - assets/images/cp.png
+    - assets/images/cross_dressers.png
+    - assets/images/men.png
+    - assets/images/women.png
+    - assets/images/trans.png
+    - assets/images/reconnect.png
+    - assets/images/unleash.png
+    - assets/images/discover.png
+    - assets/images/2girls.png
+    - assets/images/our_service.png
+    - assets/images/what_we.png
+    - assets/images/para.png
+    - assets/images/learn.png
+    - assets/images/maria.png
+    - assets/images/ass_bg.png
+    - assets/images/explore.png
+    - assets/images/free_swingers.png
+    - assets/images/socials.png
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Poppins-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Poppins-Black.ttf
+          weight: 900
+    - family: Mate
+      fonts:
+        - asset: assets/fonts/Mate-Regular.ttf
+        - asset: assets/fonts/Mate-Italic.ttf
